@@ -3,3 +3,6 @@ matplotlib
 scipy
 numpy
 cython
+pint
+pandas
+holoviews

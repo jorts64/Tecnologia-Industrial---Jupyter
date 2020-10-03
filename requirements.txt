@@ -6,3 +6,4 @@ cython
 pint
 pandas
 holoviews
+mpl_toolkits.basemap

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="11cm" height="6cm" viewBox="-252 -1302 203 103" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Fons">
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="-250" y1="-1200" x2="-50" y2="-1200"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="-50" y1="-1200" x2="-50" y2="-1300"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="-250" y1="-1200" x2="-50" y2="-1300"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="-201.592" y1="-1250.42" x2="-161.591" y2="-1270.42"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="-201.592" y1="-1250.42" x2="-191.591" y2="-1230.42"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="-161.591" y1="-1270.42" x2="-151.591" y2="-1250.42"/>
+    <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M -209.016,-1199.73 A 35.5953,35.5953 0 0 0 -213.22,-1217.81"/>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ff0000" x1="-174.539" y1="-1250.61" x2="-174.92" y2="-1207.15"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #ff0000" points="-179.852,-1214.96 -174.94,-1204.91 -169.852,-1214.87 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #0000ff" x1="-175.38" y1="-1251.03" x2="-143.203" y2="-1267.49"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #0000ff" points="-147.837,-1259.5 -141.212,-1268.51 -152.392,-1268.41 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-166.13" y="-1206.04">
+      <tspan x="-166.13" y="-1206.04">mg</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-132.915" y="-1268.69">
+      <tspan x="-132.915" y="-1268.69">F</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-133.756" y="-1245.98">
+      <tspan x="-133.756" y="-1245.98">x</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-63.9616" y="-1240.52">
+      <tspan x="-63.9616" y="-1240.52">h</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-221.63" y="-1204.78">
+      <tspan x="-221.63" y="-1204.78">α</tspan>
+    </text>
+  </g>
+</svg>
